@@ -1,6 +1,6 @@
 ![MasterHead ](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)
-<h1 align="center">Hello there👋, I'm Malhar Kulkarni.</h1>
-<h3 align="center">A aspiring Web developer from Pune, India.</h3>
+<h1 align="center">Hello 👋, I'm Malhar Kulkarni.</h1>
+<h3 align="center">An aspiring Web developer from Pune, India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cf/51/ad/cf51ad748537f4ea6899ab44388ad110.gif">
 
 - 🔭 I’m currently working on **My Portfolio**
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **frontend devlopment using three-js**
 
-- 👨‍💻 All of my projects are available at [working on it. :)](working on it. :))
+- 👨‍💻 All of my projects are available at ( working on it. :) )
 
 - 📫 How to reach me **malharkulkarni2210@gmail.com**
 
